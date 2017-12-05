@@ -5,3 +5,5 @@ tags:
 languages:
   - javascript
 resources: 2
+
+chocolateBars = ["snikers", "hundred grand", "kitkat", "skittels"]
